@@ -1,7 +1,61 @@
 
 <!DOCTYPE html>
+<html>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/dataTables.bootstrap.css" rel="stylesheet">
+
+<head>
+<title> A database of funding opportunities promoting open research practices </title>
+</head>
+
+<body>
+<h1> Funding opportunities supporting open research practices </h1>
+<p> This database contains research funding opportunities which mentioned
+  open research practices or principles (e.g. replication, FAIR data).
+  Data were automatically collected from the <a href="https://www.nih.gov/"> National Institutes of Health </a>
+  and the <a href="https://www.ukri.org/"> UK Research and Innovation </a> websites following
+  <a href = https://github.com/LorenzaDA/openresearch_funding> openly available code </a>.
+  Of note, such websites were selected as they allow for automatic collection of
+  funding data, contrarily to other databases. However, there are a number of funding agencies supporting
+  open research practices whose grants could not be included here and which we suggest consulting, e.g. <a href="https://www.nwo.nl/"> Nederlandse Organisatie voor Wetenschappelijk Onderzoek</a>.
+  This work is part of a collaborative project on how senior academics can
+  implement and support open research practices in 3 practical steps: 1) changing hiring criteria,
+  changing how scholarly outputs are credited, 3) changing how publishing and funding
+  are addressed. We hope that this database can aid change in funding: By creating
+  a resource where funds supporting open research practices are highlighted, researchers
+  may be more compelled to apply for funds which align with best research practices.
+  More information is available in our <a href="https://psyarxiv.com/jyfr7"> preprint</a>.
+  Our team is additionally supporting open research practices through the <a href="http://riotscience.co.uk/about-us/"> R.I.O.T. Science Club</a>,
+  a grassroots initiative supporting reproducibility, interpretability, openness, and transparency in science.
+</p>
+<div id='table-container'></div>
+</body>
+<footer> Credits to Derek Eder for the transformation of the csv file containing grant information into an html table </footer>
 
 
-<p style="text-align:center;">Funding promoting open research</p>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.csv.min.js"></script>
+<script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
+<script type="text/javascript" src="js/csv_to_html_table.js"></script>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr8px5fiv12bYHAD?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<script type="text/javascript">
+  function format_link(link){
+    if (link)
+      return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+    else
+      return "";
+  }
+
+  CsvToHtmlTable.init({
+    csv_path: 'results/ukri.csv',
+    element: 'table-container',
+    allow_download: true,
+    csv_options: {separator: ',', delimiter: '"'},
+    datatables_options: {"paging": false},
+    custom_formatting: [[4, format_link]]
+  });
+</script>
+</html>
