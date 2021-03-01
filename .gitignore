@@ -1,0 +1,9 @@
+.env
+/nih
+/historic_grants
+/results/historic.csv
+results/historic.csv
+/nsf
+/results/NSF_results.csv
+/results/nih_results.csv
+grant.pyproj
