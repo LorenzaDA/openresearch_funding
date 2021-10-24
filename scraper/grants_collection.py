@@ -158,12 +158,13 @@ def combine_funders():
     nih =nih.rename(columns={'words': 'matching_text', 'url': 'granturls','Expired_Date':"closing_date","release_date":"opening_date","title":"titles"})
     ukri=pd.read_csv(os.getenv("directory")+'\\results\\'+'ukri.csv')
     combined_csv = ukri.append(nih)
-    combined_csv=combined_csv[~combined_csv['matching_text'].isin(['[]',''])]
+    combined_csv=combined_csv[~combined_csv['matching_text'].isin(['[]','',"['data sharing']"])]
     combined_csv = combined_csv[combined_csv['matching_text'].notnull()]
-    print(combined_csv.head())
+    
     combined_csv=combined_csv.sort_values(['matching_text'], ascending=False)
     #print(combined_csv)
 #export to csv
+    print(combined_csv.head())
     combined_csv.to_csv( os.getenv("directory")+"//results//combined_results.csv", index=False, encoding='utf-8-sig')
 
 def sort_text(text):
