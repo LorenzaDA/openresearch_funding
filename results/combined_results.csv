@@ -1,64 +1,64 @@
 ﻿matching_text,granturls,funder,funding_type,closing_date,opening_date,publication_date,total_fund,titles,status,Clinical_Trials
 ['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-21-026.html,,,1/31/2023,11/20/2020,,,Graduate Research Training Initiative for Student Enhancement (G-RISE) (T32 - Clinical Trial Not Allowed),,Not_Allowed
-['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PA-20-162.html,,,05/08/2023,04/02/2020,,,Ruth L. Kirschstein National Research Service Award (NRSA) Short-Term Institutional Research Training Grant (Parent T35),,Not_Allowed
-['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-20-213.html,,,5/26/2023,06/01/2020,,,National Institute of General Medical Sciences Institutional Predoctoral Research Training Grant (T32 - Clinical Trial Not Allowed),,Not_Allowed
+['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PA-20-162.html,,,5/8/2023,4/2/2020,,,Ruth L. Kirschstein National Research Service Award (NRSA) Short-Term Institutional Research Training Grant (Parent T35),,Not_Allowed
+['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-20-213.html,,,5/26/2023,6/1/2020,,,National Institute of General Medical Sciences Institutional Predoctoral Research Training Grant (T32 - Clinical Trial Not Allowed),,Not_Allowed
 ['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-20-076.html,,,5/26/2022,12/11/2019,,,Jointly Sponsored Ruth L. Kirschstein National Research Service Award Institutional Predoctoral Training Program in the Neurosciences (T32 Clinical Trial Not Allowed),,Not_Allowed
 ['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-21-146.html,,,5/27/2023,2/18/2021,,,Undergraduate Research Training  Initiative for Student Enhancement (U-RISE) (T34 - Clinical Trial Not Allowed),,Not_Allowed
 ['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-20-220.html,,,10/15/2022,5/28/2020,,,"Institutional Network Award for Promoting Kidney, Urologic, and Hematologic Research Training (U2C/TL1 - Clinical Trial Not Allowed)",,Not_Allowed
-['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-21-073.html,,,06/10/2023,12/01/2020,,,NEI Institutional Mentored Physician Scientist Award (K12 Clinical Trial Optional),,Optional
+['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-21-073.html,,,6/10/2023,12/1/2020,,,NEI Institutional Mentored Physician Scientist Award (K12 Clinical Trial Optional),,Optional
 ['reproducible research'],https://grants.nih.gov/grants/guide/pa-files/PAR-21-025.html,,,1/31/2023,11/20/2020,,,Initiative for Maximizing Student Development (IMSD) (T32 - Clinical Trial Not Allowed),,Not_Allowed
 "['reproducible research', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-094.html,,,5/26/2022,1/16/2020,,,NIMH Research Education Programs for Psychiatry Residents (R25- Independent Clinical Trial Not Allowed),,Not_Allowed
 "['reproducible research', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PA-20-142.html,,,5/26/2023,3/20/2020,,,Ruth L. Kirschstein National Research Service Award (NRSA) Institutional Research Training Grant (Parent T32),,Not_Allowed
 "['reproducible research', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-20-002.html,,,6/14/2023,9/22/2020,,,Otolaryngology Residency Mentored Research Pathway (R25 Clinical Trial Not Allowed),,Not_Allowed
 "['reproducible research', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-096.html,,,5/26/2022,1/16/2020,,,NIMH Short Courses for Mental Health Related Research (R25 -Independent Clinical Trial Not Allowed),,Not_Allowed
-"['reproducible method', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-176.html,,,05/08/2022,1/29/2019,,,Methods Development for Cryogenic or Other Long-term Preservation and Revival of Drosophila and Zebrafish Genetic Stocks (R21 Clinical Trial Not Allowed),,Not_Allowed
+"['reproducible method', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-176.html,,,5/8/2022,1/29/2019,,,Methods Development for Cryogenic or Other Long-term Preservation and Revival of Drosophila and Zebrafish Genetic Stocks (R21 Clinical Trial Not Allowed),,Not_Allowed
 "['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-267.html,,,11/18/2022,7/17/2020,,,"NIDA Core ""Center of Excellence"" Grant Program (P30 Clinical Trial Optional)",,Optional
 "['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-288.html,,,9/26/2022,5/23/2019,,,Limited Competition: NIA Genome Center for Alzheimer's Disease (U54 Clinical Trial Not Allowed),,Not_Allowed
-"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-218.html,,,05/08/2023,5/20/2020,,,NCCIH Natural Product Early Phase Clinical Trial Phased Innovation Award (R61/R33 Clinical Trial Required),,Required
-"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-070.html,,,11/17/2022,12/09/2019,,,Research Infrastructure Development for Interdisciplinary Aging Studies (R21/R33 - Clinical Trial Optional),,Optional
-"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-071.html,,,11/17/2022,12/09/2019,,,Advanced-Stage Development and Utilization of Research Infrastructure for Interdisciplinary Aging Studies (R33 Clinical Trial Optional),,Optional
-"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-039.html,,,12/29/2023,11/09/2020,,,Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Basic Experimental Studies with Humans Required),,Basic_Trial
-"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-084.html,,,01/08/2023,01/07/2020,,,NIBIB Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional),,Optional
-"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-038.html,,,12/29/2023,11/09/2020,,,Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Clinical Trial Not Allowed),,Not_Allowed
-"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-254.html,,,05/08/2022,04/12/2019,,,Exploratory Research for Technology Development (R21 - Clinical Trial Not Allowed),,Not_Allowed
-"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-253.html,,,05/08/2022,04/12/2019,,,Focused Technology Research and Development (R01 - Clinical Trial Not Allowed),,Not_Allowed
+"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-218.html,,,5/8/2023,5/20/2020,,,NCCIH Natural Product Early Phase Clinical Trial Phased Innovation Award (R61/R33 Clinical Trial Required),,Required
+"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-070.html,,,11/17/2022,12/9/2019,,,Research Infrastructure Development for Interdisciplinary Aging Studies (R21/R33 - Clinical Trial Optional),,Optional
+"['replication stud', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-071.html,,,11/17/2022,12/9/2019,,,Advanced-Stage Development and Utilization of Research Infrastructure for Interdisciplinary Aging Studies (R33 Clinical Trial Optional),,Optional
+"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-039.html,,,12/29/2023,11/9/2020,,,Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Basic Experimental Studies with Humans Required),,Basic_Trial
+"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-084.html,,,1/8/2023,1/7/2020,,,NIBIB Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional),,Optional
+"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-038.html,,,12/29/2023,11/9/2020,,,Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Clinical Trial Not Allowed),,Not_Allowed
+"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-254.html,,,5/8/2022,4/12/2019,,,Exploratory Research for Technology Development (R21 - Clinical Trial Not Allowed),,Not_Allowed
+"['preprint', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-253.html,,,5/8/2022,4/12/2019,,,Focused Technology Research and Development (R01 - Clinical Trial Not Allowed),,Not_Allowed
 ['open source'],https://grants.nih.gov/grants/guide/pa-files/PA-20-074.html,,,,,,,,,
-"['open source', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-304.html,,,05/08/2023,9/15/2020,,,Computational Approaches to Curation at Scale for Biomedical Research Assets (R01 Clinical Trial Not Allowed),,Not_Allowed
+"['open source', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-304.html,,,5/8/2023,9/15/2020,,,Computational Approaches to Curation at Scale for Biomedical Research Assets (R01 Clinical Trial Not Allowed),,Not_Allowed
 "['open source', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-21-016.html,,,,,,,,,
-"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-104.html,,,1/27/2023,02/03/2020,,,Biomedical Technology Development and Dissemination Center (RM1 - Clinical Trial Not Allowed),,Not_Allowed
-"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-169.html,,,05/08/2023,4/14/2020,,,National Centers for Biomedical Imaging and Bioengineering (NCBIB) (P41 Clinical Trials Optional),,Optional
-"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-269.html,,,09/08/2022,05/06/2019,,,Cognitive Systems Analysis of Alzheimer's Disease Genetic and Phenotypic Data (U01 Clinical Trial Not Allowed),,Not_Allowed
+"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-104.html,,,1/27/2023,2/3/2020,,,Biomedical Technology Development and Dissemination Center (RM1 - Clinical Trial Not Allowed),,Not_Allowed
+"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-169.html,,,5/8/2023,4/14/2020,,,National Centers for Biomedical Imaging and Bioengineering (NCBIB) (P41 Clinical Trials Optional),,Optional
+"['open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-269.html,,,9/8/2022,5/6/2019,,,Cognitive Systems Analysis of Alzheimer's Disease Genetic and Phenotypic Data (U01 Clinical Trial Not Allowed),,Not_Allowed
 "['open science', 'reproducible research']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-112.html,,,9/26/2023,1/22/2021,,,Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (T32),,Not_Allowed
-"['open science', 'open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-089.html,,,05/09/2023,1/17/2020,,,Biomedical Data Repository (U24 - Clinical Trials Not Allowed),,Not_Allowed
-"['open science', 'open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-097.html,,,05/09/2023,1/17/2020,,,Biomedical Knowledgebase (U24 - Clinical Trials Not Allowed),,Not_Allowed
+"['open science', 'open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-089.html,,,5/9/2023,1/17/2020,,,Biomedical Data Repository (U24 - Clinical Trials Not Allowed),,Not_Allowed
+"['open science', 'open source', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-097.html,,,5/9/2023,1/17/2020,,,Biomedical Knowledgebase (U24 - Clinical Trials Not Allowed),,Not_Allowed
 "['open science', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-254.html,,,7/20/2023,7/28/2020,,,"Ethical, Legal and Social Implications (ELSI) (Research R01 Clinical Trial Optional)",,Optional
 "['open science', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-257.html,,,7/20/2023,7/29/2020,,,"Ethical, Legal and Social Implications (ELSI) Small Research Grant (R03) Clinical Trial Optional)",,Optional
 "['open science', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-255.html,,,7/20/2023,7/28/2020,,,"Ethical, Legal and Social Implications (ELSI) Exploratory/Developmental Research Grant (R21) (Clinical Trial Optional)",,Optional
 ['open research'],https://www.ukri.org/opportunity/digitalfootprints-senior-strategic-fellowship-2022/,"
 Economic and Social Research Council (ESRC) ",Fellowship,"
 8 March 2022 16:00 UK time ","
-	9 February 2022	",09/Feb/22,"£532,500",,Open,
+	9 February 2022	",9-Feb-22,"£532,500",,Open,
 ['open research'],https://www.ukri.org/opportunity/cell-and-oligonucleotide-therapy-fellowship-with-astrazeneca/,"
 Medical Research Council (MRC) ",Fellowship,"
 8 March 2022 16:00 UK time ","
-	1 December 2021	",01/Dec/21,"£4,000,000",,Open,
+	1 December 2021	",1-Dec-21,"£4,000,000",,Open,
 ['open research'],https://www.ukri.org/opportunity/future-data-services-strategic-fellowship-2022/,"
 Economic and Social Research Council (ESRC) ",Fellowship,"
 8 March 2022 16:00 UK time ","
-	9 February 2022	",09/Feb/22,"£150,000",,Open,
+	9 February 2022	",9-Feb-22,"£150,000",,Open,
 ['open research'],https://www.ukri.org/opportunity/develop-new-approaches-to-small-molecule-medicine/,"
 Medical Research Council (MRC) ",Grant,"
 	Open - no closing date	","
-	6 August 2021	",20/Aug/21,"£1,000,000",,Open,
+	6 August 2021	",20-Aug-21,"£1,000,000",,Open,
 "['open data', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-297.html,,,10/31/2023,8/26/2020,,,NIOSH Centers of Excellence for Total Worker Health (U19),,Optional
-"['open data', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-165.html,,,10/01/2022,02/10/2021,,,Underground Mine Evacuation Technologies and Human Factors Research (U60),,Not_Allowed
+"['open data', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-165.html,,,10/1/2022,2/10/2021,,,Underground Mine Evacuation Technologies and Human Factors Research (U60),,Not_Allowed
 "['open data', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-20-002.html,,,,,,,,,
 "['open data', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-21-148.html,,,12/15/2025,1/13/2021,,,NIOSH Support for Conferences and Scientific Meetings (R13 Clinical Trial Not Allowed),,Not_Allowed
-"['open access', 'reproducible method', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-053.html,,,01/08/2023,11/12/2019,,,Program to Assess the Rigor and Reproducibility of Extracellular Vesicle-Derived Analytes for Cancer Detection (R01 Clinical Trial Not Allowed),,Not_Allowed
-"['open access', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-375.html,,,01/08/2023,09/12/2019,,,Small Research Grants for Analyses of Gabriella Miller Kids First Pediatric Research Data (R03 Clinical Trial Not Allowed),,Not_Allowed
+"['open access', 'reproducible method', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-20-053.html,,,1/8/2023,11/12/2019,,,Program to Assess the Rigor and Reproducibility of Extracellular Vesicle-Derived Analytes for Cancer Detection (R01 Clinical Trial Not Allowed),,Not_Allowed
+"['open access', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/pa-files/PAR-19-375.html,,,1/8/2023,9/12/2019,,,Small Research Grants for Analyses of Gabriella Miller Kids First Pediatric Research Data (R03 Clinical Trial Not Allowed),,Not_Allowed
 "['open access', 'github', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-20-006.html,,,,,,,,,
 "['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-22-003.html,,,,,,,,,
-"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-008.html,,,09/09/2022,10/04/2019,,,HEAL Initiative: Development of Therapies and Technologies Directed at Enhanced Pain Management (R41/R42 Clinical Trial Required),,Required
-"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-009.html,,,09/09/2022,10/04/2019,,,HEAL Initiative: Development of Therapies and Technologies Directed at Enhanced Pain Management (R41/R42 Clinical Trial Not Allowed),,Not_Allowed
-"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-010.html,,,09/09/2022,10/04/2019,,,HEAL INITIATIVE: Development of Therapies and Technologies Directed at Enhanced Pain Management (R43/R44 - Clinical Trial Required),,Required
-"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-011.html,,,09/09/2022,10/04/2019,,,HEAL INITIATIVE: Development of Therapies and Technologies Directed at Enhanced Pain Management (R43/R44 - Clinical Trial Not Allowed),,Not_Allowed
+"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-008.html,,,9/9/2022,10/4/2019,,,HEAL Initiative: Development of Therapies and Technologies Directed at Enhanced Pain Management (R41/R42 Clinical Trial Required),,Required
+"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-009.html,,,9/9/2022,10/4/2019,,,HEAL Initiative: Development of Therapies and Technologies Directed at Enhanced Pain Management (R41/R42 Clinical Trial Not Allowed),,Not_Allowed
+"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-010.html,,,9/9/2022,10/4/2019,,,HEAL INITIATIVE: Development of Therapies and Technologies Directed at Enhanced Pain Management (R43/R44 - Clinical Trial Required),,Required
+"['open access', 'data sharing']",https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-20-011.html,,,9/9/2022,10/4/2019,,,HEAL INITIATIVE: Development of Therapies and Technologies Directed at Enhanced Pain Management (R43/R44 - Clinical Trial Not Allowed),,Not_Allowed
